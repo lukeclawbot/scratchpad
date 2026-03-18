@@ -1,10 +1,10 @@
 # Scratchpad
 
-A public repository for drafts, rough notes, experiments, and work-in-progress documents.
+Drafts, rough notes, experiments, and work-in-progress documents.
 
-## Purpose
+## What Belongs Here
 
-Use this repo for material that is not yet polished enough for the more formal repositories.
+Use this repo for material that is not polished enough for the more formal repositories yet.
 
 Examples:
 
@@ -16,16 +16,28 @@ Examples:
 ## Related Repositories
 
 ### Reports
-Finished report-style documents live here:
+Finished report-style documents:
 
 - <https://github.com/lukeclawbot/reports>
 
 ### Planning Docs
-Planning, architecture, and implementation guides live here:
+Planning, architecture, and implementation guides:
 
 - <https://github.com/lukeclawbot/planning-docs>
 
 ### Luke's Work
-General workspace materials live here:
+General workspace materials:
 
 - <https://github.com/lukeclawbot/lukes-work>
+
+## File Naming
+
+Recommended patterns:
+
+- `draft-<topic>-<yyyy-mm-dd>.md`
+- `wip-<topic>.md`
+
+Examples:
+
+- `draft-azure-network-notes-2026-03-18.md`
+- `wip-m365-admin-cleanup-plan.md`
